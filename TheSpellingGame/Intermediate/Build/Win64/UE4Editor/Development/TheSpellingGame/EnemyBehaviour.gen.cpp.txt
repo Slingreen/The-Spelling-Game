@@ -1,0 +1,9 @@
+C:\Users\Lenita\Documents\GitHub\The-Spelling-Game\TheSpellingGame\Intermediate\Build\Win64\UE4Editor\Development\TheSpellingGame\Definitions.TheSpellingGame.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Lenita\Documents\GitHub\The-Spelling-Game\TheSpellingGame\Source\TheSpellingGame/EnemyBehaviour.h
+C:\Users\Lenita\Documents\GitHub\The-Spelling-Game\TheSpellingGame\Source\TheSpellingGame\Spells.h
+C:\Users\Lenita\Documents\GitHub\The-Spelling-Game\TheSpellingGame\Intermediate\Build\Win64\UE4Editor\Inc\TheSpellingGame\Spells.generated.h
+C:\Users\Lenita\Documents\GitHub\The-Spelling-Game\TheSpellingGame\Source\TheSpellingGame\CustomPlayerActions.h
+C:\Users\Lenita\Documents\GitHub\The-Spelling-Game\TheSpellingGame\Intermediate\Build\Win64\UE4Editor\Inc\TheSpellingGame\CustomPlayerActions.generated.h
+C:\Users\Lenita\Documents\GitHub\The-Spelling-Game\TheSpellingGame\Intermediate\Build\Win64\UE4Editor\Inc\TheSpellingGame\EnemyBehaviour.generated.h

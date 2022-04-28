@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheSpellingGame",
+			"Path": "C:\\Users\\Lenita\\Documents\\GitHub\\The-Spelling-Game\\TheSpellingGame\\Source\\TheSpellingGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheSpellingGameEditor",
+			"Path": "C:\\Users\\Lenita\\Documents\\GitHub\\The-Spelling-Game\\TheSpellingGame\\Source\\TheSpellingGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

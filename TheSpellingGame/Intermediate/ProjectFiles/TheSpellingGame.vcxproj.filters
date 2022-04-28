@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheSpellingGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D36128B0-2D14-44A5-A440-8A9244444506}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheSpellingGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheSpellingGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2EF24837-F719-4FF9-8C70-F0AE6A833F21}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheSpellingGame">
+      <UniqueIdentifier>{AA5F9370-96E8-4AF8-95AF-3B33B114CE7B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheSpellingGame\AnotherCharacter.cpp">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheSpellingGame\AnotherCharacter.h">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheSpellingGame\CustomEnemy.cpp">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheSpellingGame\CustomEnemy.h">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheSpellingGame\CustomPlayer.cpp">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheSpellingGame\CustomPlayer.h">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheSpellingGame\CustomPlayerActions.cpp">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheSpellingGame\CustomPlayerActions.h">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheSpellingGame\EnemyBehaviour.cpp">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheSpellingGame\EnemyBehaviour.h">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheSpellingGame\Spells.cpp">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheSpellingGame\Spells.h">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TheSpellingGame\TheSpellingGame.Build.cs">
+      <Filter>Source\TheSpellingGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheSpellingGame\TheSpellingGame.cpp">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheSpellingGame\TheSpellingGame.h">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheSpellingGame\UI_Character_Controller.cpp">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheSpellingGame\UI_Character_Controller.h">
+      <Filter>Source\TheSpellingGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

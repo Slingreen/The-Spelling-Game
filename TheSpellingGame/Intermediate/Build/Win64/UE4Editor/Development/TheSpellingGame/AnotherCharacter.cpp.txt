@@ -1,0 +1,3 @@
+C:\Users\Lenita\Documents\GitHub\The-Spelling-Game\TheSpellingGame\Intermediate\Build\Win64\UE4Editor\Development\TheSpellingGame\Definitions.TheSpellingGame.h
+C:\Users\Lenita\Documents\GitHub\The-Spelling-Game\TheSpellingGame\Source\TheSpellingGame\AnotherCharacter.h
+C:\Users\Lenita\Documents\GitHub\The-Spelling-Game\TheSpellingGame\Intermediate\Build\Win64\UE4Editor\Inc\TheSpellingGame\AnotherCharacter.generated.h
