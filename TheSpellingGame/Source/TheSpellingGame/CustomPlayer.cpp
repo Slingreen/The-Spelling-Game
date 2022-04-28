@@ -52,7 +52,7 @@ FVector ACustomPlayer::Move_Up(float velocity, FVector Location, int Adjustment)
 
 void ACustomPlayer::SpellCast(FString text)
 {
-	FVector SpawnLoc{ 900.f, -3950.0f, -60.0f };
+	/*FVector SpawnLoc{ 900.f, -3950.0f, -60.0f };
 	UWorld* World = GetWorld();
 	if (Name[intendedspell] == text) {
 		if (intendedspell == 0) {
@@ -75,13 +75,13 @@ void ACustomPlayer::SpellCast(FString text)
 		}
 		ASpells* PC_Spell = World->SpawnActor<ASpells>(S, SpawnLoc, { 0,0,0 });
 		return;
-	}
+	}*/
 }
 
 FString ACustomPlayer::PreppedSpell()
 {
-	intendedspell = FMath::RandRange(0, 5);
-	FString temp = "";
+	//intendedspell = FMath::RandRange(0, 5);
+	//FString temp = "";
 	/*
 	if (InCombat) {
 		int max = SpellsLenght;
@@ -89,7 +89,7 @@ FString ACustomPlayer::PreppedSpell()
 		FString temp = Cast<ASpells>(Spells[intendedspell])->Name;
 		return temp;
 	}*/
-	return Name[intendedspell];
+	return "";
 }
 
 FVector ACustomPlayer::newTpLoc()
